@@ -1,6 +1,7 @@
-# NETWORKWALKS-B083-WK1-PM1-PM5-PROJECT
+# NETWORKWALKS-B083-WK2-PM1-PM5-PROJECT
 Hands-on cybersecurity lab documenting web reconnaissance, DNS enumeration, WAF detection, HTTP analysis and authorized network discovery using Kali Linux, WHOIS, nslookup, DNSRecon, WhatWeb, WAFW00F, cURL and Nmap/Zenmap.
-PENETRATION TESTING REPORT
+
+**PENETRATION TESTING REPORT**
 
 📌 Project Overview
 
